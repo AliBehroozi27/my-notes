@@ -1,0 +1,23 @@
+<resources>
+    <string name="add_activity_title">ویرایش نوشته</string>
+    <string name="search_hint">جست‌و‌جو</string>
+    <string name="save_menu_item">save</string>
+    <string name="search_menu_item">Search</string>
+    <string name="delete_all_menu_item">حذف همه</string>
+    <string name="about_me_menu_item">درباره من</string>
+    <string name="delete_failed_msg">حذف انجام نشد‌!</string>
+    <string name="delete_success_msg">حدف انجام شد</string>
+    <string name="do_failed_msg">لطفا دوباره تلاش کنید!</string>
+    <string name="job_done_msg">کار انجام شد!</string>
+    <string name="job_undone_msg">کار انجام نشده است!</string>
+    <string name="todo_frag_title">کارها</string>
+    <string name="notes_frag_title">یادداشت‌ها</string>
+    <string name="mark_frag_title">نشان‌دارها</string>
+    <string name="tv_no_mark">یادداشت نشان داری نیست \n\n\n\n\n\n برای حذف کردن به اطراف بکشید \n\n برای انجام دادن روی آن نگه دارید</string>
+    <string name="tv_no_note">یادداشتی نیست \n\n\n\n\n\n برای حذف کردن به اطراف بکشید \n\n برای انجام دادن روی آن نگه دارید</string>
+    <string name="tv_no_todo">کاری نیست \n\n\n\n\n\n برای حذف کردن به اطراف بکشید \n\n برای انجام دادن روی آن نگه دارید</string>
+    <string name="tv_no_result">هیچ نتیجه‌ای یافت نشد</string>
+    <string name="undo_msg">برگشت</string>
+    <string name="m_languages">----- زبان -----</string>
+
+</resources>

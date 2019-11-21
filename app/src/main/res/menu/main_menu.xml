@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/m_search"
+        android:icon="@drawable/ic_search"
+        android:title="@string/search_menu_item"
+        app:showAsAction="ifRoom|collapseActionView" />
+
+    <group
+        android:menuCategory="alternative"
+        android:id="@+id/languages"
+        android:checkableBehavior="single">
+        <item
+            android:title="@string/m_languages"
+            android:checked="false"
+            android:checkable="false"
+            android:enabled="false"/>
+
+        <item
+            android:id="@+id/m_lang_farsi"
+            android:title="@string/lang_farsi"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/m_lang_english"
+            android:title="@string/lang_english"
+            app:showAsAction="never" />
+    </group>
+
+    <item
+        android:id="@+id/m_deleteAll"
+        android:title="@string/delete_all_menu_item"
+        app:showAsAction="never" />
+
+
+</menu>

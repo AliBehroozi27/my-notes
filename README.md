@@ -8,6 +8,7 @@
 - search notes
 - 2 languages supported: pesrian & english
 
+## programming features
 - *My Notes* uses **_MVVM_** architecture.
 - *My Notes* uses **_Room Persistance_** to save notes.
 - *My Notes* uses **_LiveData_**.

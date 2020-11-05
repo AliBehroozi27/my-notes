@@ -1,6 +1,13 @@
 # My Notes
 #### a note app with ability of marking and making notes as TO-DO.
 
+- swipe to delete 
+- mark notes
+- make a todo 
+- hold todo to be done or undone
+- search notes
+- 2 languages supported: pesrian & english
+
 - *My Notes* uses **_MVVM_** architecture.
 - *My Notes* uses **_Room Persistance_** to save notes.
 - *My Notes* uses **_LiveData_**.
